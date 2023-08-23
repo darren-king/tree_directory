@@ -1,1 +1,1 @@
-# An entry point script to run the application
+# This is the main entry point script to run the application
